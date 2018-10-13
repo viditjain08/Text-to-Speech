@@ -98,6 +98,11 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
+
+#project
+G2P/8.2571937673/
+logs/
+CMUDict
 /site
 
 # mypy
