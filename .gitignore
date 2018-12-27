@@ -103,6 +103,8 @@ venv.bak/
 G2P/8.2571937673/
 logs/
 CMUDict
+Segmentation/dataset
+Segmentation/saved_models
 /site
 
 # mypy
