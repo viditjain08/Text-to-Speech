@@ -105,6 +105,8 @@ logs/
 CMUDict
 Segmentation/dataset
 Segmentation/saved_models
+Duration/saved_models
+Duration/duration_pred.pkl
 /site
 
 # mypy
